@@ -1,0 +1,10 @@
+.mainButton {
+    display: flex;
+    padding-top: 50px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn {
+    border-radius: 7px;
+}
